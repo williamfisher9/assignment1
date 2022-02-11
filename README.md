@@ -6,7 +6,7 @@ http://d1a4yhspj3nthw.cloudfront.net/
 http://williamfisher-public-website-with-cloudfront.s3-website-us-east-1.amazonaws.com
 
 ## To copy the project to your local machine you can run the command:
-```git clone williamfisher9:assignment1```
+```git clone git@github.com:williamfisher9/assignment1.git```
 
 ## Description:
 A static website was deployed to AWS by following the below steps:
@@ -25,3 +25,5 @@ A static website was deployed to AWS by following the below steps:
 5. Access CloudFront service.
 6. Create a distribution and select the S3 bucket as the origin for the CloudFront.
 7. Create an OAI policy and update the bucket bucket to provide access from CloudFront to S3 bucket.
+
+## 

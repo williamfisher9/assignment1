@@ -20,6 +20,14 @@ A static website was deployed to AWS by following the below steps:
 ### The website consists of 5 pages and each page has two videos, a logo, and a background image.
 #### Page 1
 ![ScreenShot](https://william-fisher-github-screenshots.s3.amazonaws.com/assignment1_screenshots/001.png)
+#### Page 2
+![ScreenShot](https://william-fisher-github-screenshots.s3.amazonaws.com/assignment1_screenshots/002.png)
+#### Page 3
+![ScreenShot](https://william-fisher-github-screenshots.s3.amazonaws.com/assignment1_screenshots/003.png)
+#### Page 4
+![ScreenShot](https://william-fisher-github-screenshots.s3.amazonaws.com/assignment1_screenshots/004.png)
+#### Page 5
+![ScreenShot](https://william-fisher-github-screenshots.s3.amazonaws.com/assignment1_screenshots/005.png)
 
 ## Project Setup:
 1. Logint to AWS using your account.

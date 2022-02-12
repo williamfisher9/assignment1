@@ -1,6 +1,6 @@
 # Assignment 1
 ## CloudFront URL:
-[Link](http://d1a4yhspj3nthw.cloudfront.net/)
+http://d1a4yhspj3nthw.cloudfront.net/
 
 ## Bucket Static Website URL:
 http://williamfisher-public-website-with-cloudfront.s3-website-us-east-1.amazonaws.com

@@ -17,6 +17,10 @@ A static website was deployed to AWS by following the below steps:
 5. Create a GitHub Repository for assignment 1, submit all the site content to this repository. 
 6. Develop effective technical documentation for assignment 1 - Create a REAME.md markdown descripting the details of your AWS EC2 infrastructure deployment for hosting your website. Including the link of your website.
 
+### The website consists of 5 pages and each page has two videos, a logo, and a background image.
+#### Page 1
+![ScreenShot](https://william-fisher-github-screenshots.s3.amazonaws.com/assignment1_screenshots/001.png)
+
 ## Project Setup:
 1. Logint to AWS using your account.
 2. Access S3 Service.
